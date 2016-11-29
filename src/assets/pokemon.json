@@ -1,7 +1,7 @@
 {
     "pokemon": [
         {
-            "id": 1,
+            "id": "001",
             "name": "Bulbasaur",
             "types": [
                 "Grass",
@@ -9,7 +9,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": "002",
             "name": "Ivysaur",
             "types": [
                 "Grass",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": "003",
             "name": "Venusaur",
             "types": [
                 "Grass",
@@ -25,21 +25,21 @@
             ]
         },
         {
-            "id": 4,
+            "id": "004",
             "name": "Charmander",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 5,
+            "id": "005",
             "name": "Charmeleon",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 6,
+            "id": "006",
             "name": "Charizard",
             "types": [
                 "Fire",
@@ -47,42 +47,42 @@
             ]
         },
         {
-            "id": 7,
+            "id": "007",
             "name": "Squirtle",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 8,
+            "id": "008",
             "name": "Wartortle",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 9,
+            "id": "009",
             "name": "Blastoise",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 10,
+            "id": "010",
             "name": "Caterpie",
             "types": [
                 "Bug"
             ]
         },
         {
-            "id": 11,
+            "id": "011",
             "name": "Metapod",
             "types": [
                 "Bug"
             ]
         },
         {
-            "id": 12,
+            "id": "012",
             "name": "Butterfree",
             "types": [
                 "Bug",
@@ -90,7 +90,7 @@
             ]
         },
         {
-            "id": 13,
+            "id": "013",
             "name": "Weedle",
             "types": [
                 "Bug",
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "id": 14,
+            "id": "014",
             "name": "Kakuna",
             "types": [
                 "Bug",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "id": 15,
+            "id": "015",
             "name": "Beedrill",
             "types": [
                 "Bug",
@@ -114,7 +114,7 @@
             ]
         },
         {
-            "id": 16,
+            "id": "016",
             "name": "Pidgey",
             "types": [
                 "Normal",
@@ -122,7 +122,7 @@
             ]
         },
         {
-            "id": 17,
+            "id": "017",
             "name": "Pidgeotto",
             "types": [
                 "Normal",
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "id": 18,
+            "id": "018",
             "name": "Pidgeot",
             "types": [
                 "Normal",
@@ -138,21 +138,21 @@
             ]
         },
         {
-            "id": 19,
+            "id": "019",
             "name": "Rattata",
             "types": [
                 "Normal"
             ]
         },
         {
-            "id": 20,
+            "id": "020",
             "name": "Raticate",
             "types": [
                 "Normal"
             ]
         },
         {
-            "id": 21,
+            "id": "021",
             "name": "Spearow",
             "types": [
                 "Normal",
@@ -160,7 +160,7 @@
             ]
         },
         {
-            "id": 22,
+            "id": "022",
             "name": "Fearow",
             "types": [
                 "Normal",
@@ -168,63 +168,63 @@
             ]
         },
         {
-            "id": 23,
+            "id": "023",
             "name": "Ekans",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 24,
+            "id": "024",
             "name": "Arbok",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 25,
+            "id": "025",
             "name": "Pikachu",
             "types": [
                 "Electric"
             ]
         },
         {
-            "id": 26,
+            "id": "026",
             "name": "Raichu",
             "types": [
                 "Electric"
             ]
         },
         {
-            "id": 27,
+            "id": "027",
             "name": "Sandshrew",
             "types": [
                 "Ground"
             ]
         },
         {
-            "id": 28,
+            "id": "028",
             "name": "Sandslash",
             "types": [
                 "Ground"
             ]
         },
         {
-            "id": 29,
+            "id": "029",
             "name": "Nidoran♀",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 30,
+            "id": "030",
             "name": "Nidorina",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 31,
+            "id": "031",
             "name": "Nidoqueen",
             "types": [
                 "Poison",
@@ -232,21 +232,21 @@
             ]
         },
         {
-            "id": 32,
+            "id": "032",
             "name": "Nidoran♂",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 33,
+            "id": "033",
             "name": "Nidorino",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 34,
+            "id": "034",
             "name": "Nidoking",
             "types": [
                 "Poison",
@@ -254,35 +254,35 @@
             ]
         },
         {
-            "id": 35,
+            "id": "035",
             "name": "Clefairy",
             "types": [
                 "Fairy"
             ]
         },
         {
-            "id": 36,
+            "id": "036",
             "name": "Clefable",
             "types": [
                 "Fairy"
             ]
         },
         {
-            "id": 37,
+            "id": "037",
             "name": "Vulpix",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 38,
+            "id": "038",
             "name": "Ninetales",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 39,
+            "id": "039",
             "name": "Jigglypuff",
             "types": [
                 "Normal",
@@ -290,7 +290,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": "040",
             "name": "Wigglytuff",
             "types": [
                 "Normal",
@@ -298,7 +298,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": "041",
             "name": "Zubat",
             "types": [
                 "Poison",
@@ -306,7 +306,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": "042",
             "name": "Golbat",
             "types": [
                 "Poison",
@@ -314,7 +314,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": "043",
             "name": "Oddish",
             "types": [
                 "Grass",
@@ -322,7 +322,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": "044",
             "name": "Gloom",
             "types": [
                 "Grass",
@@ -330,7 +330,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": "045",
             "name": "Vileplume",
             "types": [
                 "Grass",
@@ -338,7 +338,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": "046",
             "name": "Paras",
             "types": [
                 "Bug",
@@ -346,7 +346,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": "047",
             "name": "Parasect",
             "types": [
                 "Bug",
@@ -354,7 +354,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": "048",
             "name": "Venonat",
             "types": [
                 "Bug",
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": "049",
             "name": "Venomoth",
             "types": [
                 "Bug",
@@ -370,91 +370,91 @@
             ]
         },
         {
-            "id": 50,
+            "id": "050",
             "name": "Diglett",
             "types": [
                 "Ground"
             ]
         },
         {
-            "id": 51,
+            "id": "051",
             "name": "Dugtrio",
             "types": [
                 "Ground"
             ]
         },
         {
-            "id": 52,
+            "id": "052",
             "name": "Meowth",
             "types": [
                 "Normal"
             ]
         },
         {
-            "id": 53,
+            "id": "053",
             "name": "Persian",
             "types": [
                 "Normal"
             ]
         },
         {
-            "id": 54,
+            "id": "054",
             "name": "Psyduck",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 55,
+            "id": "055",
             "name": "Golduck",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 56,
+            "id": "056",
             "name": "Mankey",
             "types": [
                 "Fighting"
             ]
         },
         {
-            "id": 57,
+            "id": "057",
             "name": "Primeape",
             "types": [
                 "Fighting"
             ]
         },
         {
-            "id": 58,
+            "id": "058",
             "name": "Growlithe",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 59,
+            "id": "059",
             "name": "Arcanine",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 60,
+            "id": "060",
             "name": "Poliwag",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 61,
+            "id": "061",
             "name": "Poliwhirl",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 62,
+            "id": "062",
             "name": "Poliwrath",
             "types": [
                 "Water",
@@ -462,49 +462,49 @@
             ]
         },
         {
-            "id": 63,
+            "id": "063",
             "name": "Abra",
             "types": [
                 "Psychic"
             ]
         },
         {
-            "id": 64,
+            "id": "064",
             "name": "Kadabra",
             "types": [
                 "Psychic"
             ]
         },
         {
-            "id": 65,
+            "id": "065",
             "name": "Alakazam",
             "types": [
                 "Psychic"
             ]
         },
         {
-            "id": 66,
+            "id": "066",
             "name": "Machop",
             "types": [
                 "Fighting"
             ]
         },
         {
-            "id": 67,
+            "id": "067",
             "name": "Machoke",
             "types": [
                 "Fighting"
             ]
         },
         {
-            "id": 68,
+            "id": "068",
             "name": "Machamp",
             "types": [
                 "Fighting"
             ]
         },
         {
-            "id": 69,
+            "id": "069",
             "name": "Bellsprout",
             "types": [
                 "Grass",
@@ -512,7 +512,7 @@
             ]
         },
         {
-            "id": 70,
+            "id": "070",
             "name": "Weepinbell",
             "types": [
                 "Grass",
@@ -520,7 +520,7 @@
             ]
         },
         {
-            "id": 71,
+            "id": "071",
             "name": "Victreebel",
             "types": [
                 "Grass",
@@ -528,7 +528,7 @@
             ]
         },
         {
-            "id": 72,
+            "id": "072",
             "name": "Tentacool",
             "types": [
                 "Water",
@@ -536,7 +536,7 @@
             ]
         },
         {
-            "id": 73,
+            "id": "073",
             "name": "Tentacruel",
             "types": [
                 "Water",
@@ -544,7 +544,7 @@
             ]
         },
         {
-            "id": 74,
+            "id": "074",
             "name": "Geodude",
             "types": [
                 "Rock",
@@ -552,7 +552,7 @@
             ]
         },
         {
-            "id": 75,
+            "id": "075",
             "name": "Graveler",
             "types": [
                 "Rock",
@@ -560,7 +560,7 @@
             ]
         },
         {
-            "id": 76,
+            "id": "076",
             "name": "Golem",
             "types": [
                 "Rock",
@@ -568,21 +568,21 @@
             ]
         },
         {
-            "id": 77,
+            "id": "077",
             "name": "Ponyta",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 78,
+            "id": "078",
             "name": "Rapidash",
             "types": [
                 "Fire"
             ]
         },
         {
-            "id": 79,
+            "id": "079",
             "name": "Slowpoke",
             "types": [
                 "Water",
@@ -590,7 +590,7 @@
             ]
         },
         {
-            "id": 80,
+            "id": "080",
             "name": "Slowbro",
             "types": [
                 "Water",
@@ -598,7 +598,7 @@
             ]
         },
         {
-            "id": 81,
+            "id": "081",
             "name": "Magnemite",
             "types": [
                 "Electric",
@@ -606,7 +606,7 @@
             ]
         },
         {
-            "id": 82,
+            "id": "082",
             "name": "Magneton",
             "types": [
                 "Electric",
@@ -614,7 +614,7 @@
             ]
         },
         {
-            "id": 83,
+            "id": "083",
             "name": "Farfetch’d",
             "types": [
                 "Normal",
@@ -622,7 +622,7 @@
             ]
         },
         {
-            "id": 84,
+            "id": "084",
             "name": "Doduo",
             "types": [
                 "Normal",
@@ -630,7 +630,7 @@
             ]
         },
         {
-            "id": 85,
+            "id": "085",
             "name": "Dodrio",
             "types": [
                 "Normal",
@@ -638,14 +638,14 @@
             ]
         },
         {
-            "id": 86,
+            "id": "086",
             "name": "Seel",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 87,
+            "id": "087",
             "name": "Dewgong",
             "types": [
                 "Water",
@@ -653,28 +653,28 @@
             ]
         },
         {
-            "id": 88,
+            "id": "088",
             "name": "Grimer",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 89,
+            "id": "089",
             "name": "Muk",
             "types": [
                 "Poison"
             ]
         },
         {
-            "id": 90,
+            "id": "090",
             "name": "Shellder",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 91,
+            "id": "091",
             "name": "Cloyster",
             "types": [
                 "Water",
@@ -682,7 +682,7 @@
             ]
         },
         {
-            "id": 92,
+            "id": "092",
             "name": "Gastly",
             "types": [
                 "Ghost",
@@ -690,7 +690,7 @@
             ]
         },
         {
-            "id": 93,
+            "id": "093",
             "name": "Haunter",
             "types": [
                 "Ghost",
@@ -698,7 +698,7 @@
             ]
         },
         {
-            "id": 94,
+            "id": "094",
             "name": "Gengar",
             "types": [
                 "Ghost",
@@ -706,7 +706,7 @@
             ]
         },
         {
-            "id": 95,
+            "id": "095",
             "name": "Onix",
             "types": [
                 "Rock",
@@ -714,28 +714,28 @@
             ]
         },
         {
-            "id": 96,
+            "id": "096",
             "name": "Drowzee",
             "types": [
                 "Psychic"
             ]
         },
         {
-            "id": 97,
+            "id": "097",
             "name": "Hypno",
             "types": [
                 "Psychic"
             ]
         },
         {
-            "id": 98,
+            "id": "098",
             "name": "Krabby",
             "types": [
                 "Water"
             ]
         },
         {
-            "id": 99,
+            "id": "099",
             "name": "Kingler",
             "types": [
                 "Water"

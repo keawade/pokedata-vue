@@ -1,6 +1,6 @@
 <template>
   <div class="history">
-    History
+    <div v-for='pokemon in $store.state.history'>{{pokemon.name}}</div>
   </div>
 </template>
 

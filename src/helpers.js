@@ -1,4 +1,4 @@
-import { types as typesChart } from './types'
+import { types as typesChart } from './assets/types.json'
 
 const types = Object.keys(typesChart)
 
