@@ -27,7 +27,7 @@
         </div>
       </div>
       <div class='ui center aligned segment'>
-        Fork me on <a href='https://github.com/keawade/pokedata' target='_blank'>GitHub</a>
+        Fork me on <a href='https://github.com/keawade/pokedata-vue' target='_blank'>GitHub</a>
       </div>
     </div>
     <div v-if='$store.state.history.length > 0' class='ui divider' />
