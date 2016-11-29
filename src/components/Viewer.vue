@@ -1,4 +1,4 @@
-<template>
+<template v-if='$store.state.current'>
   <div class="viewer">
     <div class='ui segments'>
       <div class='ui center aligned segment'>
