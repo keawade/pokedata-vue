@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class='ui container'>
+  <div id="application" class='ui container'>
     <search></search>
     <viewer></viewer>
     <history></history>
@@ -19,7 +19,7 @@ export default {
     History
   },
   mounted: function () {
-    this.$store.commit('selectPokemon', this.$store.state.pokemon[Math.ceil(Math.random() * 151)])
+    this.$store.commit('selectPokemon', this.$store.state.pokemon[Math.ceil(Math.random() * 150)])
   }
 }
 </script>
