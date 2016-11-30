@@ -12,16 +12,13 @@
             </div>
             <div class='column'>
               <h3 class='ui dividing header'>Type</h3>
-                {{$store.state.current.types}}
+              <div v-for='pokeType in $store.state.current.types'>{{pokeType}}</div>
               <h3 class='ui dividing header'>Weaknesses</h3>
-              <div v-for='pokeType in $store.state.current.types'>
-              </div>
+              <div v-for='pokeType in weaknesses'>{{pokeType}}</div>
               <h3 class='ui dividing header'>Resistances</h3>
-              <div v-for='pokeType in $store.state.current.types'>
-              </div>
+              <div v-for='pokeType in resistances'>{{pokeType}}</div>
               <h3 class='ui dividing header'>Immunities</h3>
-              <div v-for='pokeType in $store.state.current.types'>
-              </div>
+              <div v-for='pokeType in immunities'>{{pokeType}}</div>
             </div>
           </div>
         </div>
@@ -35,11 +32,27 @@
 </template>
 
 <script>
+import { calculateStrengths } from '../helpers'
+
 export default {
   name: 'viewer',
   data () {
     return {
       url: `http://assets.pokemon.com/assets/cms2/img/pokedex/full/${this.$store.state.current.id}.png`
+    }
+  },
+  computed: {
+    strengths: function () {
+      return calculateStrengths(this.$store.state.current.types.map((type) => (type.toLowerCase())))
+    },
+    weaknesses: function () {
+      return Object.keys(this.strengths).filter((key) => (this.strengths[key] >= 2))
+    },
+    resistances: function () {
+      return Object.keys(this.strengths).filter((key) => (this.strengths[key] === 0.25 || this.strengths[key] === 0.5))
+    },
+    immunities: function () {
+      return Object.keys(this.strengths).filter((key) => (this.strengths[key] === 0))
     }
   },
   updated: function () {
