@@ -6,15 +6,22 @@
       </div>
       <div class='content'>
         <div class='header'>{{pokemon.id}} - {{pokemon.name}}</div>
-        <div class='description'>{{pokemon.types}}</div>
+        <div class='description'>
+          <type-dot v-for='pokeType in pokemon.types' :type='pokeType'></type-dot>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import TypeDot from './TypeDot'
+
 export default {
   name: 'card',
+  components: {
+    TypeDot
+  },
   props: ['pokemon'],
   data () {
     return {
